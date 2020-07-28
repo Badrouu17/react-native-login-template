@@ -24,12 +24,12 @@ yarn install
 
 ## Screenshots
 
-![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true" width="40">
 
-![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/2.jpg?raw=true" width="40">
 
-![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/3.jpg?raw=true" width="40">
 
-![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/4.jpg?raw=true" width="40">
 
-![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/5.jpg?raw=true" width="40">
