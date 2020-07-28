@@ -24,12 +24,12 @@ yarn install
 
 ## Screenshots
 
-<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true" width="250" height="300">
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true" width="250" height="500">
 
-<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/2.jpg?raw=true" width="250" height="300">
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/2.jpg?raw=true" width="250" height="500">
 
-<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/3.jpg?raw=true" width="250" height="300">
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/3.jpg?raw=true" width="250" height="500">
 
-<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/4.jpg?raw=true" width="250" height="300">
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/4.jpg?raw=true" width="250" height="500">
 
-<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/5.jpg?raw=true" width="250" height="300">
+<img src="https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/5.jpg?raw=true" width="250" height="500">
