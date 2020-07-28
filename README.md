@@ -21,3 +21,15 @@ yarn install
  // or
  expo start --web
 ```
+
+## Screenshots
+
+![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+
+![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+
+![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+
+![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
+
+![alt text](https://github.com/Badrouu17/react-native-login-template/blob/master/src/assets/screenshots/1.jpg?raw=true)
